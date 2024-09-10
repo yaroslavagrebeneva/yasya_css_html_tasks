@@ -1,4 +1,4 @@
-<h1 aligin=left><img src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlyNDd0OGkyZHB1ZnlrOGFtcm5wNGM2MmVva3o2MHNuMm16bDhlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/URSx16AkryF5Xf4esD/giphy.gif" width = "120px"/> Tasks </h1>
+<h1 aligin=left>Tasks </h1>
 <h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&width=435&lines=Solving_HTML_tasks" alt="Typing SVG" /></a> </h2>
 
 <p>
