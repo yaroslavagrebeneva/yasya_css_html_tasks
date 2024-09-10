@@ -1,0 +1,39 @@
+.h1_48
+{
+    width: 500px;
+    text-align: center;
+    color: blue;
+    font-size: 40px
+}
+
+.h2_48
+{
+    width: 500px;
+    text-align: center;
+    color: green;
+    font-weight: normal;
+    font-size: 30px;
+}
+
+.p_48
+{
+    width: 500px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: Arial;
+    text-indent: 40px;
+}
+
+.i_48
+{
+    color: green;
+}
+
+.ul_48
+{
+    width: 400px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 20px;
+}
