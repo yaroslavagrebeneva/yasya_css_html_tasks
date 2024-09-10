@@ -208,3 +208,20 @@ p {
         width: 400px;
     }
 }
+
+.task_44 {
+    p {
+        text-decoration: underline;
+        font: 30px Arial
+
+    }
+}
+
+.task_45 {
+    p {
+        text-decoration: overline;
+        font-size : 30px ;
+        color: red;
+
+    }
+}
