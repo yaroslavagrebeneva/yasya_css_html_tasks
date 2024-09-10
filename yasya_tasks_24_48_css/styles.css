@@ -164,3 +164,14 @@ p {
         width: 400px;
     }
 }
+
+.task_40{
+
+p {
+	font-size: 30px;
+	line-height: 15;
+	text-align: justify;
+	width: 400px;
+}
+
+}
