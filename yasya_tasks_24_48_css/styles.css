@@ -50,3 +50,16 @@ p {
         color: #761d38;
     }
 }
+
+.task_28_1 {
+    p {
+        width: 300px;
+    }
+}
+
+.task_28_2 {
+    td {
+        width: 400px;
+        height: 300px;
+    }
+}
