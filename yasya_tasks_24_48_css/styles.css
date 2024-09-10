@@ -200,3 +200,11 @@ p {
       }
       
 }
+
+.task_42 {
+    p {
+        text-indent: 50px;
+        text-align: justify;
+        width: 400px;
+    }
+}
