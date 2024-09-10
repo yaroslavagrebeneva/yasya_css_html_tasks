@@ -1,4 +1,4 @@
-<h1 aligin=left>Tasks </h1>
+<h1 aligin=left>Tasks 🦋</h1>
 <h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&width=435&lines=Solving_HTML_tasks" alt="Typing SVG" /></a> </h2>
 
 <p>
