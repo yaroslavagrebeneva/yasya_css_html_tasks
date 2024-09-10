@@ -14,3 +14,7 @@
 <p>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxkMDMwcHh0MzA0ODEycXJnYXFhYzJuNWdhdjU5dHZ0MHYxcnFueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GeC3xJbTJEOZLL6ZgU/giphy.gif" width="120px"/><a href="https://github.com/yaroslavagrebeneva/yasya_css_html_tasks/tree/main/yasya_tasks_24_48_css">Tasks_#24_48_CSS</a>
 </p>
+
+<p>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlyNDd0OGkyZHB1ZnlrOGFtcm5wNGM2MmVva3o2MHNuMm16bDhlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/URSx16AkryF5Xf4esD/giphy.gif" width="120px"/><a href="https://github.com/yaroslavagrebeneva/yasya_css_html_tasks/tree/main/yasya_practicum_css">Practice_CSS</a>
+</p>
