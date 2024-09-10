@@ -222,6 +222,13 @@ p {
         text-decoration: overline;
         font-size : 30px ;
         color: red;
+   }
+}
 
-    }
+.task_46 {
+    p {
+        text-decoration:  line-through;
+        font-size : 30px ;
+        color: green;
+   }
 }
