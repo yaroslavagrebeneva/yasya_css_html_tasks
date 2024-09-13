@@ -3,3 +3,35 @@
         text-align: center;
     }
 }
+
+.task_52 {
+    h1, h2, h3 {
+        text-align: center;
+    }
+
+    h2 {
+        color: blue;
+    }
+    h3 {
+        font-size: 16px;
+        color: red;
+    }
+}
+
+.task_53_1 {
+    ul li i {
+        color: red;
+    }
+    
+    p i {
+        color: green;
+    }
+}
+
+.task_53_2 {
+    
+p b i {
+    color: red;
+} 
+
+}
