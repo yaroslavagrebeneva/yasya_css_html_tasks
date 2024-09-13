@@ -86,3 +86,29 @@ p b i {
 .green {
     color: green;
 }
+
+/* 58-1 */
+
+.eeee, .zzz {
+    line-height: 1.5;
+    font-family: Arial;
+}
+
+/*58-2*/
+
+.eeeee, .zzzz, .ggg {
+    text-align: center;
+    font-family: Arial;
+}
+
+.eee {
+    font-size: 20px;
+}
+
+.zzz {
+    font-size: 30px;
+}
+
+.ggg {
+    font-size: 35px;
+} 
