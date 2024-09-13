@@ -62,3 +62,27 @@ p b i {
 .xxx {
     font-size: 30px;
 } 
+
+/* 57_1 */
+
+.first {
+    color: red;
+}
+
+.second {
+    color: green;
+}
+
+.third {
+    color: blue;
+}
+
+/* 57_2 */
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
