@@ -161,3 +161,28 @@ h2.qqqq.xxxx {
 h2#eelem.br {
 	color: red;
 }
+
+/*Task#69-1 */
+h2.zzzk {
+    color: red; /* Применяем красный цвет к заголовкам h2 с классом zzzk */
+}
+/*Task#69-2 */
+h2 .zzzkk {
+    color: red; /* Применяем красный цвет к элементам с классом zzzkk внутри h2 */
+}
+
+
+/*Task#69-6 */
+.bbby .zzzy.xxxy {
+	color: red;
+}
+
+/*Task#69-9 */
+#ellem.bbbk {
+	color: red;
+}
+
+/*Task#69-10 */
+#eeelem .bebb {
+	color: red;
+}
