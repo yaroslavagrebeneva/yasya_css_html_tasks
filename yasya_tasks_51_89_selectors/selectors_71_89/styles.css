@@ -1,0 +1,45 @@
+/*Task_71_1*/
+
+#block h1,
+#block h2,
+#block h3
+ {
+	text-align: center;
+}
+#block h2 {
+	color: blue;
+}
+#block h3 {
+	font-size: 16px;
+	color: red;
+}
+
+/*Task_71_2*/
+
+#block1 h1.eee,
+#block1 h2.zzz {
+	text-align: center;
+}
+
+#block1 h2.zzz {
+	font-size: 20px;
+}
+
+#block1 h1.eee {
+	font-size: 30px;
+}
+
+/*Task_71_3*/
+
+.xxx .kkk, 
+.eeee h2.zzzz, 
+#eeee h2 {
+	text-align: center;
+}
+
+/*Task_71_3*/
+
+.ee h2.zz,
+.xx {
+            text-align: center;
+        }
