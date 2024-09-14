@@ -41,3 +41,24 @@ p[class^="top-"] {
     color: rgb(255, 0, 0);
     font-size: 20px;
 }
+
+/*Task_82*/
+a:link {
+    color: blue; /* Голубой цвет для ссылок, которые еще не посещены */
+    text-decoration: none; /* Убирает подчеркивание у ссылок */
+}
+
+a:visited {
+    color: green; /* Зеленый цвет для посещенных ссылок */
+    text-decoration: none; /* Убирает подчеркивание */
+}
+
+a:hover {
+    color: red; /* Красный цвет при наведении на ссылку */
+    text-decoration: none; /* Убирает подчеркивание при наведении */
+}
+
+a:active {
+    color: black; /* Черный цвет при нажатии на ссылку */
+    text-decoration: none; /* Убирает подчеркивание при нажатии */
+}
