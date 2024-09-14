@@ -103,8 +103,18 @@ p.bbb4, h2.xxx4 {
 
 }
 
+/*Task_72_17*/
 .fff6 h2.bbb6 {
     font-size: 45px;
     text-align : center;
     color:rgb(218, 155, 2) ;
+}
+
+/*Task_77_1*/
+#elem77 + li {
+    color: rgb(111, 0, 255);
+}
+
+.elem77_2 + li {
+    color: rgb(208, 255, 0);
 }
