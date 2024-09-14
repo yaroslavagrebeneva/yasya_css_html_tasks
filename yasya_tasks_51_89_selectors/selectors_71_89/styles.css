@@ -125,3 +125,8 @@ p.bbb4, h2.xxx4 {
     color:chartreuse;
     font-size: 25px;
 }
+
+/*Task_79*/
+main * p {
+    color: hotpink;
+}
