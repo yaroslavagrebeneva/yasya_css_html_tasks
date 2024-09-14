@@ -31,3 +31,23 @@
 .sss .www .kkk { 
     color: red; 
 }
+
+/* Task#62_1 */
+
+ p.KINO {
+	color: red;
+} 
+
+/* Task#62_3*/
+
+.metallica p.nirvana {
+	color: red;
+} 
+
+/* Task#62_4 */
+
+.titanic p .ocean {
+	color: red;
+} 
+
+
