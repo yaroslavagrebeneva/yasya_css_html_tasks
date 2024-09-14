@@ -11,3 +11,33 @@ p[title1] {
     color: purple; /* Пример стиля - текст будет фиолетовым */
     font-style: italic; /* Пример стиля - курсив */
 }
+
+/*Task_80_3*/
+p[title3="hello"] {
+    color: blue;
+    font-weight: bold;
+}
+
+/*Task_80_4*/
+a[href^="http://"] {
+    color:rgb(136, 255, 0);
+    text-align: center;
+}
+
+/*Task_80_5*/
+
+a[href$=".html"] {
+    color: green;
+}
+
+/*Task_80_6*/
+
+p[title4*="hello"] {
+    font-weight: bold;
+}
+
+/*Task_80_7*/
+p[class^="top-"] {
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
