@@ -115,6 +115,13 @@ p.bbb4, h2.xxx4 {
     color: rgb(111, 0, 255);
 }
 
+/*Task_71_2*/
 .elem77_2 + li {
     color: rgb(208, 255, 0);
+}
+
+/*Task_78*/
+#elem78 ~ li {
+    color:chartreuse;
+    font-size: 25px;
 }
