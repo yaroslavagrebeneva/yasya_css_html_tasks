@@ -48,3 +48,37 @@
 div p {
     color: blueviolet;
 }
+
+/*Task_72_2*/
+div h2 {
+    color:aqua
+}
+
+/*Task_72_3*/
+#bloock p{
+    color:rgb(157, 255, 0)
+}
+
+/*Task_72_5*/
+
+.bbb{
+    color : lightcoral
+}
+
+/*Task_72_6*/
+#blocck .bbcb {
+text-align : center;
+color:darkmagenta; 
+}
+
+/*Task_72_7*/
+p.bbbk{
+    font-size: 40px;
+    color :darkgoldenrod;
+}
+
+/*Task_72_8*/
+h2.bbb1 {
+    font-size: 30px;
+    color :rgb(255, 0, 0);
+}
