@@ -50,4 +50,31 @@
 	color: red;
 } 
 
+/* Task#63_1 */
+
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+
+/*Task#63_2*/
+
+.bold {
+    font-weight: bold; /* Жирный текст */
+}
+.blue {
+    color: blue; /* Синий цвет текста */
+}
+.center {
+    text-align: center; /* Текст по центру */
+}
+
 
