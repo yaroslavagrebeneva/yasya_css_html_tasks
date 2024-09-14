@@ -82,3 +82,29 @@ h2.bbb1 {
     font-size: 30px;
     color :rgb(255, 0, 0);
 }
+
+/*Task_72_9*/
+#block2 p.bbb2 {
+    font-size: 35px;
+    color:cornflowerblue;
+}
+
+/*Task_72_11*/
+p.bbb4, h2.xxx4 {
+    text-align : center;
+    color:blue ;
+}
+
+/*Task_72_12*/
+#block5 p.bbb5, #block5 p.xxx5 {
+    font-size: 35px;
+    text-align : center;
+    color:rgb(208, 255, 0) ;
+
+}
+
+.fff6 h2.bbb6 {
+    font-size: 45px;
+    text-align : center;
+    color:rgb(218, 155, 2) ;
+}
