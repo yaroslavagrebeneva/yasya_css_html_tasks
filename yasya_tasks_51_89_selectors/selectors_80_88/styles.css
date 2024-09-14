@@ -4,3 +4,10 @@
     color: blue; 
     font-weight: bold;
 }
+
+/*Task_80_2*/
+
+p[title1] {
+    color: purple; /* Пример стиля - текст будет фиолетовым */
+    font-style: italic; /* Пример стиля - курсив */
+}
