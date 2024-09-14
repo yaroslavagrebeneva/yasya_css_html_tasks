@@ -43,3 +43,8 @@
 .xx {
             text-align: center;
         }
+
+/*Task_72_1*/
+div p {
+    color: blueviolet;
+}
