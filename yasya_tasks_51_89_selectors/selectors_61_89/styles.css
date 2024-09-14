@@ -8,3 +8,26 @@
  .winx h2 {
      color: red;
         }
+
+/* Task#61_3 */
+
+.nature h2.lake {
+    color: red;
+}
+
+/* Task#61_4 */
+
+.love h3.kiss {
+	color: red;
+}
+
+/*Task#61_5 */
+.poetry p.stihi {
+    color: red;
+}
+
+/*Task#61_6 */
+
+.sss .www .kkk { 
+    color: red; 
+}
