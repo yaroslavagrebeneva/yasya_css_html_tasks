@@ -90,3 +90,13 @@
 #elem3 {
     color: blue;
 } 
+
+/*Task#65*/
+ #block {
+	color: rgb(255, 0, 170);
+	font-family: Verdana;
+}
+.text {
+	font-size: 45px;
+} 
+
