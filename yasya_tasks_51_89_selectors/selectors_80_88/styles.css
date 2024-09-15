@@ -73,3 +73,12 @@ a:active {
     color: red; /* Красный цвет при наведении */
     text-decoration: underline; /* Подчеркивание при наведении */
 }
+
+/* Task#85*/
+
+#test a {
+	color: red;
+}
+#test a:hover {
+	text-decoration: none;
+}
