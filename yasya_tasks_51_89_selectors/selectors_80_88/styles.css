@@ -82,3 +82,29 @@ a:active {
 #test a:hover {
 	text-decoration: none;
 }
+
+/*Task#86_1*/
+a.task_86_1 {
+	color: red;
+}
+a.task_86_1:hover {
+	text-decoration: none;
+}
+
+/*Task#86_2*/
+
+#block_86_2 a.task_86_2 {
+	color: red;
+}
+#block_86_2 a.task_86_2:hover {
+	text-decoration: none;
+}
+
+/*Task#86_3*/
+
+.block_86_3 a.task_86_3 {
+	color: red;
+}
+.block_86_3 a.task_86_3:hover {
+	text-decoration: none;
+}
