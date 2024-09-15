@@ -62,3 +62,14 @@ a:active {
     color: black; /* Черный цвет при нажатии на ссылку */
     text-decoration: none; /* Убирает подчеркивание при нажатии */
 }
+
+/* Task#84*/
+
+.custom-links a {
+    color: blue; /* Голубой цвет ссылок */
+    text-decoration: none; /* Убираем подчеркивание */
+}
+.custom-links a:hover {
+    color: red; /* Красный цвет при наведении */
+    text-decoration: underline; /* Подчеркивание при наведении */
+}
