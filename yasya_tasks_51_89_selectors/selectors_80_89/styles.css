@@ -203,3 +203,16 @@ a.task_86_1:hover {
         color: darkblue;
     }
 }
+
+/* Task#89_1 */
+.task_89_1 li:not(li.elem89_1){
+    color: rgb(255, 51, 85);
+}
+/* Task#89_2 */
+.task_89_2 li:not(:first-child) {
+    color: skyblue;
+}
+/* Task#89_1 */
+.task_89_3 li:not(:first-child, :last-child){
+    color: royalblue;
+}
