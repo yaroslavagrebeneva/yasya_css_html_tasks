@@ -108,3 +108,9 @@ a.task_86_1:hover {
 .block_86_3 a.task_86_3:hover {
 	text-decoration: none;
 }
+
+/* Task#87_1 */
+.task87_1 li:first-child{
+    color :rgb(255, 0, 0);
+}
+
