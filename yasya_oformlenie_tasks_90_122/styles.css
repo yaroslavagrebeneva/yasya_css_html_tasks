@@ -82,3 +82,25 @@
     width:300px;
     height: 200px;
 }
+
+/*Task_98_1*/
+
+#elem11 {
+    width: 300px;
+    height: 200px;
+    border-top: 3px solid blue;
+    border-right: 3px solid green;
+    border-left: 3px solid orange;
+    border-bottom: 3px solid red;
+}
+
+/*Task_98_2*/
+
+#elem12 {
+    width: 300px;
+    height: 200px;
+    border-top: 1px solid blue;
+    border-right: 3px dotted green;
+    border-bottom: 1px solid blue;
+    border-left: 3px solid red;
+}
