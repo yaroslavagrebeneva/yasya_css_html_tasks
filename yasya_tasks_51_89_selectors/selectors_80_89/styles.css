@@ -162,3 +162,16 @@ a.task_86_1:hover {
 .task87_9 li:empty {
     border: 1px solid blue;
    }
+
+   .task_88_1 {
+     /* Применение стиля к третьему элементу среди всех абзацев */
+     p:nth-of-type(3) {
+        color: blue;
+        font-weight: bold;
+    }
+
+    /* Применение стиля ко второму элементу среди заголовков h2 с конца */
+    h2:nth-last-of-type(2) {
+        color: green;
+    }
+}
