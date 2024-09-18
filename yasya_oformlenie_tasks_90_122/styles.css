@@ -104,3 +104,12 @@
     border-bottom: 1px solid blue;
     border-left: 3px solid red;
 }
+
+/*Task_99*/
+
+#elem13 {
+    height:200px;
+    width: 200px;
+    border: 1px solid green;
+    border-radius: 30px;
+}
