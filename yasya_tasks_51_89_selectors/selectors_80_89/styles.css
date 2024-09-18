@@ -114,3 +114,51 @@ a.task_86_1:hover {
     color :rgb(255, 0, 0);
 }
 
+/* Task#87_2 */
+.task87_2 li:last-child{
+    color : green;
+}
+/* Task#87_3 */
+.task87_3 li:first-child{
+    color :rgb(255, 0, 0);
+}
+.task87_3 li:last-child{
+    color : green;
+}
+/* Task#87_4 */
+.task87_4 li:nth-child(3){
+    color : red;
+}
+/* Task#87_5 */
+.task87_5 li:nth-child(odd){
+    color:red;
+}
+.task87_5 li:nth-child(even){
+    color: green;
+}
+/* Task#87_6 */
+.task87_6 li:nth-child(3n){
+    color:red;
+}
+/* Task#87_7 */
+.task87_7 li:nth-last-child(2){
+    color:red; 
+}
+/* Task#87_8 */
+.task87_8 li:only-child {
+	color: red;
+}
+
+.task87_8 ul {
+	margin-bottom: 10px;
+}
+/* Task#87_9 */
+.task87_9 li {
+    border: 1px solid red;
+    width: 100px;
+    padding: 3px;
+    margin-top: 10px;
+   }
+.task87_9 li:empty {
+    border: 1px solid blue;
+   }
