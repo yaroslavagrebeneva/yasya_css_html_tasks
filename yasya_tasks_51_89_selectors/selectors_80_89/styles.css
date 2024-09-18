@@ -175,3 +175,17 @@ a.task_86_1:hover {
         color: green;
     }
 }
+
+.task_88_2 {
+      /* Применение стиля к первому элементу среди абзацев */
+      p:first-of-type {
+        color: purple;
+        font-style: italic;
+    }
+
+    /* Применение стиля к последнему элементу среди заголовков h2 */
+    h2:last-of-type {
+        color: orange;
+        text-transform: uppercase;
+    }
+}
