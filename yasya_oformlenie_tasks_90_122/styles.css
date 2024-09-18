@@ -129,3 +129,12 @@
 	border-radius: 100px;
 	border: 1px solid green;
 }
+
+/*Task_103*/
+#elem16 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 10px 30px;
+
+}
