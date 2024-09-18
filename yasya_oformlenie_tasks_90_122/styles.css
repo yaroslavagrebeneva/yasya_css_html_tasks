@@ -1,0 +1,16 @@
+/*Task_90_1*/
+#elem {
+        width: 200px;
+        height: 200px;
+        background-color: rgb(126, 137, 235);
+    }
+
+/*Task_90_2*/
+#elem1 {
+    width: 300px;
+    height: 200px;
+    color: white;
+    background-color: rgb(77, 238, 153);
+    text-align: center;
+    font-size: 30px;
+}
