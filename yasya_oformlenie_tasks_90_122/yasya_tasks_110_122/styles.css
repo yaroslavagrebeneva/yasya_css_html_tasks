@@ -17,3 +17,7 @@
 #task_120 ol {
 	list-style-type:upper-alpha;
 }
+
+#task_121 ol {
+	list-style-type: lower-greek;
+}
