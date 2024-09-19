@@ -174,3 +174,34 @@
     padding: 10px 20px 40px;
     border: 1px solid red;
 }
+
+/*Task135*/
+#elem1 {
+	width: 200px;
+	height: 200px;
+	background: rgb(0, 187, 255);
+	margin-bottom: 20px;
+}
+
+#elem2 {
+	width: 200px;
+	height: 200px;
+	background: rgb(0, 149, 255);
+	padding: 25px; 
+	border: 5px solid rgb(0, 8, 125);  
+}
+#elem3 {
+	width: 200px;
+	height: 200px;
+	background: rgb(0, 183, 255);
+	margin-bottom: 20px;
+}
+
+#elem4{
+	width: 200px;
+	height: 200px;
+	background: rgb(0, 208, 255);
+	padding: 25px; 
+	border: 5px solid rgb(0, 22, 148);  
+    box-sizing: border-box;
+}
