@@ -5,3 +5,15 @@
 #task_113 ul {
     list-style-type: circle;
 }
+
+#task_115 ul {
+	list-style-type: none;
+}
+
+#task_119 ol {
+	list-style-type: lower-alpha;
+}
+
+#task_120 ol {
+	list-style-type:upper-alpha;
+}
