@@ -138,3 +138,28 @@
     border-radius: 10px 30px;
 
 }
+
+/*Task_104*/
+
+#elem17 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 10px 30px;
+}
+
+/*Task_105*/
+#elem18 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 10px 30px 20px;
+}
+
+/*Task_107*/
+#elem19{
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+    border-radius: 50%;
+}
