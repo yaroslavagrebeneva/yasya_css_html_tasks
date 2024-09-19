@@ -205,3 +205,12 @@
 	border: 5px solid rgb(0, 22, 148);  
     box-sizing: border-box;
 }
+
+.task_146 {
+    
+    h2 {
+        font-style: italic;
+        color: rgb(255, 0, 0);
+    }
+
+}
