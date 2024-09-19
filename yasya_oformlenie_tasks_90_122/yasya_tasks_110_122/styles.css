@@ -21,3 +21,7 @@
 #task_121 ol {
 	list-style-type: lower-greek;
 }
+
+#task_122 ol {
+	list-style-type: decimal-leading-zero;
+}
