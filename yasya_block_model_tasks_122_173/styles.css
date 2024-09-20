@@ -229,3 +229,33 @@
 	border: 2px solid rgb(255, 0, 255);
 	margin-bottom: 25px;
 }
+
+#task152 div{
+    display: inline-block;
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+}
+
+#parent153{
+    display: block;
+    border: 1px solid red;
+}
+#child_1{
+    height: 100px;
+    width: 100px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+#child_2{
+    height: 100px;
+    width: 200px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+#child_3{
+    height: 100px;
+    width: 300px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
