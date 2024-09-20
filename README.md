@@ -32,6 +32,11 @@
 <h2></h2>
 <h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&width=435&lines=Solving_Block_Model_Tasks" alt="Typing SVG" /></a> </h2>
 <p>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN2Zjl3ejkyZ2RtOTlwcG5ibnFrdnQ2azRmaTNpeXE5YWg5ZjkyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/klz5rmbrfqGysaiPKU/giphy.gif" width="120px"/><a href="https://github.com/yaroslavagrebeneva/yasya_css_html_tasks/tree/main/yasya_block_model_tasks_122_173">Tasks_#122_1173_Block_Model</a>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNxajBjaGJjdDF3MzY1NWxsdXk3dWNkeGRwdnJ1Nzd3MHFvYzVydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2fxWqxz89gcxRAr0wu/giphy.gif" width="120px"/><a href="https://github.com/yaroslavagrebeneva/yasya_css_html_tasks/tree/main/yasya_block_model_tasks_122_173">Tasks_#122_173_Block_Model</a>
 </p>
 
+<h2></h2>
+<h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&width=435&lines=Solving_Position_Tasks" alt="Typing SVG" /></a> </h2>
+<p>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI4ZnJiemo1OHA2MXQxdG9zaHl3OTJjbnJ2amhlODRzamVxZ3dwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GblNVJ4wSwTSakiWtb/giphy.gif" width="120px"/><a href="https://github.com/yaroslavagrebeneva/yasya_css_html_tasks/tree/main/yasya_position_tasks_174_185">Tasks_#174_185_Position</a>
+</p>
