@@ -259,3 +259,19 @@
     border: 1px solid green;
     margin: 10px auto;
 }
+
+.parent158 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+}
+.parent159_1 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+.parent159_2 {
+	padding: 10px 30px;
+	border: 1px solid red;
+    text-align: right;
+}
