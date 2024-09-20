@@ -275,3 +275,75 @@
 	border: 1px solid red;
     text-align: right;
 }
+
+.parent161 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+}
+
+.child161 {
+	display: inline-block;
+    padding: 10px;
+    border: 1px solid green;
+    margin: 5px;
+}
+
+.parent162_1 {
+    padding: 10px 0;
+    border: 1px solid red;
+    text-align: right;
+}
+.child162_1 {
+    display: inline-block; 
+    padding: 10px;
+    border: 1px solid green;
+}
+
+.parent162_2 {
+    padding: 10px 20px 10px 0;
+    border: 1px solid red;
+    text-align: right; 
+}
+.child162_2 {
+    display: inline-block; 
+    padding: 10px;
+    border: 1px solid green;
+}
+
+.parent162_3 {
+    padding: 10px 0;
+    border: 1px solid red;
+    text-align: right; 
+}
+.child162_3 {
+    display: inline-block; 
+    padding: 10px;
+    border: 1px solid green;
+    margin-right: 10px; 
+}
+
+.parent162_4 {
+    padding: 10px 0;
+    border: 1px solid red;
+    text-align: right; 
+}
+.child162_4 {
+    display: inline-block; 
+    width: 100px;
+    padding: 10px;
+    border: 1px solid green;
+}
+
+.parent162_5 {
+    padding: 10px 0;
+    border: 1px solid red;
+    text-align: right; 
+}
+.child162_5 {
+    display: inline-block; 
+    width: 100px;
+    padding: 10px;
+    border: 1px solid green;
+    text-align: center; 
+}
