@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlyNDd0OGkyZHB1ZnlrOGFtcm5wNGM2MmVva3o2MHNuMm16bDhlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/URSx16AkryF5Xf4esD/giphy.gif" width="100px"/><a href="https://github.com/yaroslavagrebeneva/yasya_css_html_tasks/tree/main/yasya_practicum_css">Practice_CSS</a>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlyNDd0OGkyZHB1ZnlrOGFtcm5wNGM2MmVva3o2MHNuMm16bDhlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/URSx16AkryF5Xf4esD/giphy.gif" width="140px"/><a href="https://github.com/yaroslavagrebeneva/yasya_css_html_tasks/tree/main/yasya_practicum_css">Practice_CSS</a>
 </p>
 <h2></h2>
 <h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&width=435&lines=Solving_Selectors_Tasks" alt="Typing SVG" /></a> </h2>
@@ -46,3 +46,10 @@
 <p>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2N5OGx6czgwaXlmZXBjeXJ2M2k2Ym1uOTExcmZzaXhrb3A3ODFpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JXPScO5j9o8HF5OMAv/giphy.gif" width="120px"/><a href="https://github.com/yaroslavagrebeneva/yasya_css_html_tasks/tree/main/yasya_float_tasks_186_202">Tasks_#186_202_Float</a>
 </p>
+
+<h2></h2>
+<h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&width=435&lines=Solving_Flex_Tasks" alt="Typing SVG" /></a> </h2>
+<p>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM4azE0YWZ5d2FiY2Rkam8yYWltYThyanJleGI0cGdmZ2tyeW4xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dRAAsRx4wXeNavlQvU/giphy.gif" width="150px"/><a href="https://github.com/yaroslavagrebeneva/yasya_css_html_tasks/tree/main/yasya_flex_tasks_203_216">Tasks_#203_216_Flex</a>
+</p>
+
