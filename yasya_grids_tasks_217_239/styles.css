@@ -1,0 +1,141 @@
+.tittle {
+    h1 {
+        text-align: center;
+        font-family: 'Franklin Gothic Medium';
+    }
+}
+
+/*task_220*/
+#parent1 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* фиксированные размеры столбцов */
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 650px; /* общая ширина родительского элемента */
+  }
+  
+  #parent1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  
+  #parent2 {
+    display: grid;
+    grid-template-columns: repeat(2, 200px); /* два столбца по 200px */
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 405px;
+  }
+  
+  #parent2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  
+  #parent3 {
+    display: grid;
+    grid-template-columns: repeat(3, 150px); /* 3 столбца по 150px */
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 445px;
+  }
+  
+  #parent3 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  
+  #parent4 {
+    display: grid;
+    grid-template-columns: 100px 150px 200px; /* фиксированные размеры столбцов */
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 445px; /* общая ширина родительского элемента */
+  }
+  
+  #parent4 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+
+  /*task#221*/
+
+  #parent5, #parent6, #parent7 {
+    display: grid;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 550px; /* общая ширина родительского элемента */
+  }
+  
+  #parent5 > div {
+    background-color: #f0f0f0;
+    border: 1px solid #696989;
+    padding: 20px;
+    text-align: center;
+  }
+
+  
+  #parent6 > div {
+    background-color: #f0f0f0;
+    border: 1px solid #696989;
+    padding: 20px;
+    text-align: center;
+  }
+
+  
+  #parent7 > div {
+    background-color: #f0f0f0;
+    border: 1px solid #696989;
+    padding: 20px;
+    text-align: center;
+  }
+
+  #parent5 {
+    grid-template-columns: repeat(2, 1fr); /* два столбца одинаковой ширины */
+  }
+
+  #parent6 {
+    grid-template-columns: repeat(3, 1fr); /* 3 столбца одинаковой ширины */
+
+  }
+
+  #parent7 {
+    grid-template-columns: 1fr 1fr 2fr; /* третий столбец в два раза шире первых двух */
+  }
+
+  /*task#222*/
+  #parent8 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.5fr;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+  }
+  #parent8 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    background-color: #f0f0f0;
+
+  }
+
+  #parent9 {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 2.5fr; /* второй столбец в 1.5 раза больше первого, третий — в 2.5 раза */
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+  }
+  #parent9 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    background-color: #f0f0f0;
+
+  }
