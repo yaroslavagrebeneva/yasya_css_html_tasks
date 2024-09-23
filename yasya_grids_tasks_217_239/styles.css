@@ -241,3 +241,61 @@
     background-color: #f0f0f0;
 
   }
+
+  /*task#226*/
+
+  #parent17 {
+    display: grid;
+    grid-template-columns: 200px auto;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+  }
+  #parent17 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    background-color: #f0f0f0;
+  }
+
+  #parent18 {
+    display: grid;
+    grid-template-columns: 100px 150px auto;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+  }
+  #parent18 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    background-color: #f0f0f0;
+  }
+
+  /*task#227*/
+
+  #parent19 {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 200px);
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 800px;
+  }
+  #parent19 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    background-color: #f0f0f0;
+  }
+
+  /*task#228*/
+
+  #parent20 {
+    display: grid;
+    grid-template-columns: 100px repeat(3, minmax(150px, 1fr)); /* Первый столбец фиксирован, остальные 3 — с minmax */
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 800px;
+  }
+  #parent20 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    background-color: #f0f0f0;
+  }
