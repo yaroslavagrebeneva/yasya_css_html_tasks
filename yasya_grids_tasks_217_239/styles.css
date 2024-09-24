@@ -720,3 +720,75 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+
+/*task237*/
+#parent42 {
+	display: grid;
+	row-gap:25px;
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+	height: 200px;
+}
+#parent42 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+
+/*task238*/
+
+#parent43 {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px; 
+}
+
+#parent43 > div, #parent44 > div {
+	padding: 10px;
+  border: 2px solid #696989;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+
+#parent44 {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+  gap: 10px 5%;
+  border: 2px solid #696989;
+  padding: 10px;
+  width: 600px; 
+}
+/*task239*/
+
+#parent239_1 > div, #parent239_2 > div, #parent239_3 > div {
+    height: 100px;
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+#parent239_1 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    border: 2px solid #696989;
+}
+
+#parent239_2 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) 2fr 3fr;
+    grid-gap: 10px;
+    border: 2px solid #696989;
+}
+
+#parent239_3 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    border: 2px solid #696989;
+}
